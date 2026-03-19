@@ -2,9 +2,7 @@
 
 ![Hyunjun Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-jun-Lee0811&show_icons=true&theme=default&text_color=000000&hide=issues,contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun-jun-Lee0811&layout=compact) 
 
-<a href="https://github.com/Hyun-jun-Lee0811">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyun-jun-Lee0811&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/>
-</a>
+
 
 <h3 align="center">:technologist:  Contact Me</h3>
 <div align="center" style="display:flex; flex-direction:row; gap:10px;">
@@ -45,3 +43,7 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Gather-8C5E58?style=for-the-badge&logo=Gather&logoColor=white"/>&nbsp
 </p>
+
+## 🔗 교육 수료
+- 제로베이스 백엔드 부트캠프 6등 수료
+- 멋쟁이사자처럼 계명대 13기 아기사자 수료
