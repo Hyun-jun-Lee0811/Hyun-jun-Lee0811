@@ -1,4 +1,4 @@
-## 안녕하세요. 대학교 2학년 개발자 이현준입니다.
+## 안녕하세요. 대학교 4학년 개발자 이현준입니다.
 
 ![Hyunjun Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-jun-Lee0811&show_icons=true&theme=default&text_color=000000&hide=issues,contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun-jun-Lee0811&layout=compact) 
 
@@ -37,17 +37,7 @@
 </p>
 
 
-<h3 align="center">🛠 Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=DBeaver&logoColor=white"/>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black"/>&nbsp
-</p>
+
 
 <h3 align="center">:speech_balloon: Communication</h3>
 <p align="center">
