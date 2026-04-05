@@ -1,14 +1,5 @@
-## 안녕하세요. 대학교 4학년 개발자 이현준입니다.
-
-![Hyunjun Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-jun-Lee0811&show_icons=true&theme=default&text_color=000000&hide=issues,contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun-jun-Lee0811&layout=compact) 
-
-
-
 <h3 align="center">:technologist:  Contact Me</h3>
 <div align="center" style="display:flex; flex-direction:row; gap:10px;">
-    <a href="https://hyunjuns.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-FF6600?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
     <a href="mailto:korong0811@naver.com">
         <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
     </a>
