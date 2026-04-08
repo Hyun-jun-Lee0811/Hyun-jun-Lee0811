@@ -1,7 +1,7 @@
 <h3 align="center">:technologist:  Contact Me</h3>
 <div align="center" style="display:flex; flex-direction:row; gap:10px;">
-    <a href="mailto:korong0811@naver.com">
-        <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
+    <a href="mailto:hjun.dev@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.instagram.com/juns0811/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
