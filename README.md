@@ -16,13 +16,13 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp
   <br>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="43" height="43" style="margin: 0 10px;" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker icon" width="43" height="43" style="margin: 0 10px;" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS icon" width="43" height="43" style="margin: 0 10px;" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="43" height="43"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="43" height="43"/>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="43" height="43"/>
 </p>
 
 
