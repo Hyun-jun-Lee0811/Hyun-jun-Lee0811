@@ -69,10 +69,10 @@ Backend Developer | Cloud Computing | Computer Vision
 
 # Awards
 
-- **Outstanding Paper Award**, Undergraduate Paper Competition, Korea Institute of Information Technology (KIIT) Summer Conference (2026)
-- **Grand Prize**, 7th International Area Studies Poster Presentation, Keimyung University (2026)
-- **Encouragement Award**, Capstone Design Exhibition, Keimyung University (2026)
 - **Outstanding Award**, Capstone Design Exhibition, Keimyung University (2025)
+- **Outstanding Paper Award**, Undergraduate Paper Competition, Korea Institute of Information Technology (KIIT) Summer Conference (2026)
+- **Encouragement Award**, Capstone Design Exhibition, Keimyung University (2026)
+- **Grand Prize**, 7th International Area Studies Poster Presentation, Keimyung University (2026)
 
 ---
 
