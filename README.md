@@ -6,25 +6,23 @@ Backend Developer | Cloud Computing | Computer Vision
 
 ---
 
-## 📫 Contact
+## Contact
 
-<p align="center">
 <a href="mailto:hjun.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <a href="https://github.com/Hyun-jun-Lee0811">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 <a href="https://www.instagram.com/juns0811/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black"/>
 </a>
-</p>
 
 ---
 
-# 🎓 Education
+# Education
 
 ### Keimyung University
 
@@ -36,7 +34,7 @@ Backend Developer | Cloud Computing | Computer Vision
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -51,6 +49,8 @@ Backend Developer | Cloud Computing | Computer Vision
 
 <p>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 </p>
 
 ### Database
@@ -67,30 +67,29 @@ Backend Developer | Cloud Computing | Computer Vision
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
----
+# Awards
 
-# 🏆 Awards
-
-- **Outstanding Paper Award**, Undergraduate Paper Competition, KIIT Summer Conference (2026)
-- **Grand Prize**, 7th International Studies Poster Competition, Keimyung University (2026)
-- **Encouragement Award**, Capstone Design Exhibition (2026)
-- **Outstanding Award**, Capstone Design Exhibition (2025)
+- **Outstanding Paper Award**, Undergraduate Paper Competition, Korea Institute of Information Technology (KIIT) Summer Conference (2026)
+- **Grand Prize**, 7th International Area Studies Poster Presentation, Keimyung University (2026)
+- **Encouragement Award**, Capstone Design Exhibition, Keimyung University (2026)
+- **Outstanding Award**, Capstone Design Exhibition, Keimyung University (2025)
 
 ---
 
-# 📚 Training
+# Training
 
 - Zerobase Backend Bootcamp (**6th Place**)
 - LikeLion Keimyung University 13th
 
 ---
 
-# 🎮 Game Projects
+# Game Projects
 
 ## Jump to the Top
 
-A custom-built **C++ 2D game engine** featuring three playable games.
+A custom-built **C++ component-based 2D game engine** featuring three playable game modes.
 
+- Built a custom engine (scene management, collision, animation, camera, particle system)
 - Side Scroller
 - Space Shooter
 - Vertical Climbing
@@ -103,7 +102,11 @@ https://github.com/Hyun-jun-Lee0811/jump-to-the-top-game
 
 ## 2002
 
-A three-stage 2D action game where players battle virus-themed boss monsters.
+A three-stage 2D action game developed with the **Doodle framework**, featuring multi-phase boss battles and HP/MP/Armor mechanics.
+
+- Three playable stages
+- Multi-phase boss battle
+- HP / MP / Armor resource system
 
 🔗 Repository
 
@@ -113,7 +116,11 @@ https://github.com/Hyun-jun-Lee0811/gam100-2002-game
 
 ## Queendom Chronicles
 
-A tile-based village simulation game featuring resource gathering, building construction, and NPC interaction.
+A tile-based town-building simulation game where players gather resources, construct buildings, and interact with NPCs.
+
+- Code Director (Team of 5)
+- Tile-based building system
+- NPC dialogue & resource management
 
 🔗 Repository
 
@@ -121,21 +128,19 @@ https://github.com/Hyun-jun-Lee0811/gam150-tiara-queendom-chronicles
 
 ---
 
-# 💻 Backend Projects
-
-## One Drink Today
-
-A community platform promoting local Korean traditional liquors through reviews and recommendations.
-
-🔗 Repository
-
-https://github.com/Hyun-jun-Lee0811/drink-sns
-
----
+# Backend Projects
 
 ## OnIt
 
-A real-time collaboration platform integrating key features of Discord, Figma, and Notion, migrated from a monolithic architecture to Microservices (MSA).
+Real-time brainstorming platform inspired by Discord, Figma, and Notion.
+
+- Migrated a monolithic Spring Boot backend to a Microservices Architecture (MSA)
+- Designed API Gateway–based routing while maintaining frontend compatibility
+- Implemented STOMP WebSocket, WebRTC voice communication, and AI-powered prototype generation
+- Deployed with Docker, GitHub Actions, and AWS EC2
+
+**Tech**
+Java · Spring Boot · Spring Cloud Gateway · PostgreSQL · Redis · Docker · GitHub Actions · WebSocket · WebRTC · OpenAI
 
 🔗 Repository
 
@@ -143,9 +148,27 @@ https://github.com/Hyun-jun-Lee0811/on-it-backend
 
 ---
 
-## Heat Shelter Recommendation System
+## One Drink Today
 
-An AI-powered platform that recommends optimal heat shelters based on user location and environmental conditions.
+Community platform for discovering and reviewing Korean traditional liquors.
+
+- Implemented authentication with JWT and OAuth2
+- Developed recommendation, notification, and community features
+- Built search and tag management with Elasticsearch
+- Automated scheduled recommendations using Spring Batch
+
+**Tech**
+Java · Spring Boot · MariaDB · Redis · Elasticsearch · Spring Batch · AWS
+
+🔗 Repository
+
+https://github.com/Hyun-jun-Lee0811/drink-sns
+
+---
+
+# Heat Shelter Recommendation System
+
+An AI-powered heat shelter recommendation platform built with Spring Boot, providing location-based shelter recommendations, congestion prediction, QR-based check-in, and shelter management.
 
 🔗 Repository
 
@@ -153,9 +176,9 @@ https://github.com/Hyun-jun-Lee0811/heat-shelter-system
 
 ---
 
-## SafeRoom
+# SafeRoom
 
-A housing safety platform that calculates the **Housing Risk Index (HRI Score)** using public datasets.
+A housing safety platform that calculates the Housing Risk Index (HRI) using public datasets, PostGIS spatial analysis, and public APIs to evaluate rental property risks.
 
 ### Backend
 
@@ -163,21 +186,9 @@ https://github.com/Hyun-jun-Lee0811/saferoom-backend
 
 ### Batch Pipeline
 
-Python-based batch pipeline for collecting and processing public housing datasets.
+Python-based ETL pipeline for collecting, preprocessing, and loading public housing datasets into PostgreSQL to support HRI score calculation.
 
 https://github.com/Hyun-jun-Lee0811/saferoom-batch
-
----
-
-## My Dictionary
-
-A personal vocabulary platform that allows users to search word definitions, etymology, example sentences, and save personalized notes for learning.
-
-🔗 Repository
-
-https://github.com/Hyun-jun-Lee0811/my-dictionary
-
----
 
 <p align="center">
 <i>Always learning, always building.</i>
