@@ -1,40 +1,184 @@
-<h3 align="center">:technologist:  Contact Me</h3>
-<div align="center" style="display:flex; flex-direction:row; gap:10px;">
-    <a href="mailto:hjun.dev@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://www.instagram.com/juns0811/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-</div>
+<h1 align="center">Hyunjun Lee</h1>
 
-<h3 align="center">:gear:  Tech Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"/>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp
-  <br>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="43" height="43"/>
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="43" height="43"/>
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="43" height="43"/>
+Backend Developer | Cloud Computing | Computer Vision
 </p>
 
+---
 
+## 📫 Contact
 
-
-<h3 align="center">:speech_balloon: Communication</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Gather-8C5E58?style=for-the-badge&logo=Gather&logoColor=white"/>&nbsp
+<a href="mailto:hjun.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Hyun-jun-Lee0811">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/juns0811/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 </p>
 
-## 🔗 교육 수료
-- 제로베이스 백엔드 부트캠프 6등 수료
-- 멋쟁이사자처럼 계명대 13기 아기사자 수료
+---
+
+# 🎓 Education
+
+### Keimyung University
+
+- **B.S. in Digipen Game Engineering**
+  - Mar. 2021 – Feb. 2025
+
+- **B.S. in Computer Science**
+  - Mar. 2025 – Present
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### DevOps
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+# 🏆 Awards
+
+- **Outstanding Paper Award**, Undergraduate Paper Competition, KIIT Summer Conference (2026)
+- **Grand Prize**, 7th International Studies Poster Competition, Keimyung University (2026)
+- **Encouragement Award**, Capstone Design Exhibition (2026)
+- **Outstanding Award**, Capstone Design Exhibition (2025)
+
+---
+
+# 📚 Training
+
+- Zerobase Backend Bootcamp (**6th Place**)
+- LikeLion Keimyung University 13th
+
+---
+
+# 🎮 Game Projects
+
+## Jump to the Top
+
+A custom-built **C++ 2D game engine** featuring three playable games.
+
+- Side Scroller
+- Space Shooter
+- Vertical Climbing
+
+🔗 Repository
+
+https://github.com/Hyun-jun-Lee0811/jump-to-the-top-game
+
+---
+
+## 2002
+
+A three-stage 2D action game where players battle virus-themed boss monsters.
+
+🔗 Repository
+
+https://github.com/Hyun-jun-Lee0811/gam100-2002-game
+
+---
+
+## Queendom Chronicles
+
+A tile-based village simulation game featuring resource gathering, building construction, and NPC interaction.
+
+🔗 Repository
+
+https://github.com/Hyun-jun-Lee0811/gam150-tiara-queendom-chronicles
+
+---
+
+# 💻 Backend Projects
+
+## One Drink Today
+
+A community platform promoting local Korean traditional liquors through reviews and recommendations.
+
+🔗 Repository
+
+https://github.com/Hyun-jun-Lee0811/drink-sns
+
+---
+
+## OnIt
+
+A real-time collaboration platform integrating key features of Discord, Figma, and Notion, migrated from a monolithic architecture to Microservices (MSA).
+
+🔗 Repository
+
+https://github.com/Hyun-jun-Lee0811/on-it-backend
+
+---
+
+## Heat Shelter Recommendation System
+
+An AI-powered platform that recommends optimal heat shelters based on user location and environmental conditions.
+
+🔗 Repository
+
+https://github.com/Hyun-jun-Lee0811/heat-shelter-system
+
+---
+
+## SafeRoom
+
+A housing safety platform that calculates the **Housing Risk Index (HRI Score)** using public datasets.
+
+### Backend
+
+https://github.com/Hyun-jun-Lee0811/saferoom-backend
+
+### Batch Pipeline
+
+Python-based batch pipeline for collecting and processing public housing datasets.
+
+https://github.com/Hyun-jun-Lee0811/saferoom-batch
+
+---
+
+## My Dictionary
+
+A personal vocabulary platform that allows users to search word definitions, etymology, example sentences, and save personalized notes for learning.
+
+🔗 Repository
+
+https://github.com/Hyun-jun-Lee0811/my-dictionary
+
+---
+
+<p align="center">
+<i>Always learning, always building.</i>
+</p>
