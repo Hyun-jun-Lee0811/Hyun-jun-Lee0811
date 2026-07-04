@@ -74,8 +74,8 @@ Backend Developer | Cloud Computing | Computer Vision
 
 # Training
 
-- Zerobase Backend Bootcamp (**6th Place**)
-- LikeLion Keimyung University 13th
+- Zerobase Backend Bootcamp (6th Place) | Feb 2024 – Oct 2024
+- LikeLion Keimyung University 13th | 2025
 
 ---
 
