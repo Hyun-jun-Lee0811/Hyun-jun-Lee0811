@@ -1,7 +1,7 @@
 <h1 align="center">Hyunjun Lee</h1>
 
 <p align="center">
-Backend Developer | Cloud Computing | Computer Vision
+Computer Vision | Machine Learning | AI Systems
 </p>
 
 ---
