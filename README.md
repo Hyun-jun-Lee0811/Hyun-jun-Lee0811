@@ -1,7 +1,7 @@
 <h1 align="center">Hyunjun Lee</h1>
 
 <p align="center">
-Computer Vision | Deep Learning | Edge AI & Real Time Vision Systems
+Computer Vision 
 </p>
 
 ---
