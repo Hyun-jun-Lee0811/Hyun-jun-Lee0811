@@ -1,11 +1,5 @@
 <h1 align="center">Hyunjun Lee</h1>
 
-<p align="center">
-Computer Vision 
-</p>
-
----
-
 ## Contact
 
 <a href="mailto:hjun.dev@gmail.com">
